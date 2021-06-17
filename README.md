@@ -10,7 +10,7 @@ I have been programming software and playing music for a LONG time.
 
 Lately I have been learning about Audio Software, DSP, IOT, and real time programming.
 
-Most of the programming I have done (and am still doing) is buisiness applications using Visual Studio and the C#, VB.NET stacks.
+Most of the programming I have done (and am still doing) is business applications using Visual Studio and the C#, VB.NET stacks.
 
 The new Audio Programming is being done in C++ using the JUCE framework and Faust based DSP code.
 
